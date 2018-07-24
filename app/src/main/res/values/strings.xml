@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomContacts</string>
+    <string name="tvName">Name</string>
+    <string name="tvCode">Code</string>
+    <string name="tvNum">Number</string>
+
+
+</resources>
